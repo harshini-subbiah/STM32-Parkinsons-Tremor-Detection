@@ -99,6 +99,10 @@ The embedded firmware extracts 13 statistical features from a 1-second sliding w
 | INT | PA0 (Optional) |
 
 ---
+## GUIDE
+See STM_GUIDE for Running
+
+---
 
 ## Sample Output
 
