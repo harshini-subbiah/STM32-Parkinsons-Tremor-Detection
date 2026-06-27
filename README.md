@@ -55,31 +55,7 @@ The system performs inference entirely on the embedded device without requiring 
 
 ## System Architecture
 
-Dataset
-
-↓
-
-Window Generation
-
-↓
-
-Feature Extraction
-
-↓
-
-Neural Network Training
-
-↓
-
-TensorFlow Lite Model
-
-↓
-
-STM32 X-CUBE-AI
-
-↓
-
-Real-Time Prediction
+<img width="257" height="455" alt="image" src="https://github.com/user-attachments/assets/eddb6adf-5e36-4dc8-859c-10bc948ad01b" />
 
 ---
 
@@ -105,31 +81,8 @@ The embedded firmware extracts 13 statistical features from a 1-second sliding w
 
 ## Machine Learning Pipeline
 
-Raw Accelerometer Data
+<img width="255" height="455" alt="image" src="https://github.com/user-attachments/assets/1380e37c-6b25-4e56-9819-2dcf399b1a0a" />
 
-↓
-
-Window Generation
-
-↓
-
-Feature Extraction
-
-↓
-
-Normalization
-
-↓
-
-Neural Network Training
-
-↓
-
-TensorFlow Lite Conversion
-
-↓
-
-STM32 Deployment
 
 ---
 
