@@ -118,18 +118,6 @@ Pred: SEVERE
 
 ---
 
-## Future Improvements
-
-- Bluetooth monitoring
-- OLED display
-- Cloud dashboard
-- Mobile application
-- Larger Parkinson's dataset
-- TinyML optimization
-- Power optimization
-
----
-
 ## Author
 
 Harshini Subbiah
